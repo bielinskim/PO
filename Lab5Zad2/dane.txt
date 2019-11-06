@@ -1,0 +1,6 @@
+mat bie Oceny: 1 1 1 1 1
+mat bie Oceny: 2 1 2 1 2
+mat bie Oceny: 3 2 3 2 3
+mat bie Oceny: 4 3 4 3 4
+mat bie Oceny: 5 4 5 4 5
+mat bie Oceny: 5 5 5 5 5
